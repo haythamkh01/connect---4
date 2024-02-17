@@ -1,0 +1,31 @@
+
+
+.color-picker-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.color-display {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid hsl(0,0%,80%);
+    margin-bottom: 5px;
+    transition: 0.25ms ease;
+}
+.color-display2 {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid hsl(0,0%,80%);
+    margin-bottom: 5px;
+    transition: 0.25ms ease;
+
+}
